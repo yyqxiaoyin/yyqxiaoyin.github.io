@@ -1,5 +1,5 @@
 ---
-title: React-Native学习记录（ScrollView组件）
+title: React-Native学习记录（ListView组件）
 date: 2017-03-19 11:33:40
 tags:
 ---
