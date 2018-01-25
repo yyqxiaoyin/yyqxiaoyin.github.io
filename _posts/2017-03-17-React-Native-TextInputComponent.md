@@ -1,11 +1,11 @@
 ---
-title: React-Native学习记录（Image组件）
+title: React-Native学习记录（TextInput组件）
 date: 2017-03-17 9:20:11
 tags:
 ---
 + <!-- more -->
 
-### Text组件介绍
+### TextInput组件介绍
 - TextInput也是继承自 View,所以 View 的属性 TextInput 也能使用，一些样式类的属性可以参照 View 的相关属性
 
 ##### 属性方法:
