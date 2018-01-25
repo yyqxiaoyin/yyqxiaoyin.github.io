@@ -1,7 +1,7 @@
 ---
 title: React-Native学习记录（配置环境）
 
-date: 2017-06-15 14:29:06
+date: 2017-03-13 14:29:06
 tags:
 ---
 
@@ -151,3 +151,5 @@ git clone https://github.com/virtoolswebplayer/ReactNative-LiveTemplate
 
 方法2
 - 打开WebStrom File->Import setting->导入ReactNative.jar
+
+

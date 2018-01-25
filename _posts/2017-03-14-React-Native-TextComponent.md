@@ -1,6 +1,6 @@
 ---
 title: React-Native学习记录（Text组件）
-date: 2017-06-23 11:02:22
+date: 2017-03-14 09:30:03
 tags:
 ---
 + <!-- more -->
