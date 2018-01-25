@@ -46,11 +46,15 @@ tags:
 - 不设置尺寸的情况下，默认会根据图片资源的大小来展示图片
 
 - 可以通过设置尺寸或者改变 Image 的填充模式来改变所展示的图片样式
+
+
 ```
 <Image source={require('./img/icon.jpg')} style={styles.imgStyle}></Image>
 ```
 - 加载APP中的图片资源: 把图片放到 images.xcassets 中，这样在编译链接完成后，会将里面的图片统一打包以供使用
 - 加载来自网络的图片
+
+
 
 ```
 <Image source={{uri:'https://xxx.jpg'}} style={styles.imgStyle}></Image>
